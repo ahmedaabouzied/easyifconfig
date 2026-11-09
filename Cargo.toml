@@ -1,0 +1,8 @@
+[package]
+name = "easyifconfig"
+version = "0.1.0"
+edition = "2024"
+description = "ifconfig output explained in plain language"
+repository = "https://github.com/ahmedaabouzied/easyifconfig"
+
+[dependencies]
